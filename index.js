@@ -29,7 +29,12 @@ const questions = [
         name: "license",
         message: "Which license is needed for this project?",
         choices: ["MIT", "GNU GPLv3", "None"]
-    }
+    },
+    {
+        type: "input",
+        name: "credits",
+        message: "Who contributed to this project? (first and last name)"
+    },
 ];
 
 // TODO: Create a function to write README file

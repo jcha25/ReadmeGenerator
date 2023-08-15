@@ -37,12 +37,13 @@ ${data.description}
 * [Usage](#usage)
 ${renderLicenseTableOfContents(data)}
 * [Credits](#credits)
-
 ## Insallation
 ${data.insallation}
 ## Usage
 ${data.usage}
 ${renderLicenseSection(data)}
+## Credits
+Contributors: ${data.credits}
 `;
 }
 
