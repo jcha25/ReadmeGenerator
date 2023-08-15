@@ -8,7 +8,6 @@ function renderLicenseBadgeAndLink(data) {
   }
 }
 
-
 function renderLicenseTableOfContents(data) {
   if(data.license === "None") {
     return "";
@@ -16,7 +15,6 @@ function renderLicenseTableOfContents(data) {
     return `* [License](#license)`
   }
 }
-
 
 function renderLicenseSection(data) {
   if(data.license === "None") {
@@ -27,7 +25,6 @@ ${renderLicenseBadgeAndLink(data)}`
   }
 }
 
-// TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 ## Description
