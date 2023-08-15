@@ -14,3 +14,7 @@ First run "git clone https://github.com/jcha25/ReadmeGenerator.git", then run "n
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Credits
 Contributors: Justice Champion
+
+## Video
+[GitHub Repo](https://github.com/jcha25/ReadmeGenerator)\
+[Live Demonstration](https://drive.google.com/file/d/1zbp1MH3hfdmXjLU47cd7DAoZMYwZLNgb/view)
